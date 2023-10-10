@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the "Interest Over Time" data
-interest_over_time = pd.read_csv("C:/Users/reish/OneDrive/Projects/InterestOverTime.csv")
+interest_over_time = pd.read_csv("C:/Users/Projects/InterestOverTime.csv")
 
 # Assuming you have a 'Week' column and 'AI Worldwide' column
 date_column = 'Week'
